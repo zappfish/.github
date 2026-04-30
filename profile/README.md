@@ -6,8 +6,4 @@ As part of this effort, ZAPP is creating a Phenotype Atlas of annotated images a
 
 **Learn more about ZAPP at our Project Website: https://zappfish.org/**
 
-## Quick Links
-- [Project Goals](https://zappfish.org/goals/)
-- [Contact us](https://zappfish.org/contact/)
-- [Events](https://zappfish.org/events/)
-- [Blog](https://zappfish.org/blog/)
+Find ways to contact us at https://zappfish.org/contact/
